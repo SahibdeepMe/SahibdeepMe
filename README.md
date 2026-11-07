@@ -72,7 +72,7 @@
   <a href="https://instagram.com/sahibdeep_yt" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
   </a>
-  <a href="https://www.youtube.com/c/@sahibdeep_yt" target="_blank">
+  <a href="https://www.youtube.com/c/@techspines" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="45" />
   </a>
   <a href="https://discord.com/invite/cqqMez5df" target="_blank">
